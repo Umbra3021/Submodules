@@ -1,3 +1,6 @@
 [submodule "TestB"]
 	path = TestB
 	url = C:\\Users\\Abhishek.Sengupta\\Desktop\\Submodules\\TestA\\TestB
+[submodule "TestC"]
+	path = TestC
+	url = C:\\Users\\Abhishek.Sengupta\\Desktop\\Submodules\\TestA\\TestC
