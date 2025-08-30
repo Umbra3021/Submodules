@@ -3,4 +3,4 @@
 	url = https://github.com/Umbra3021/TestB
 [submodule "TestC"]
 	path = TestC
-	url = C:\\Users\\Abhishek.Sengupta\\Desktop\\Submodules\\TestA\\TestC
+	url = https://github.com/Umbra3021/TestC
